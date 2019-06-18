@@ -1,7 +1,7 @@
 # Analysing-the-GDP-of-Indian-States
 The data for this project has been sourced from  https://data.gov.in/
 
-The project is divided into 2 part, namely:
+The project is divided into 2 parts, namely:
 
 Part -I
 Comparing the Total and Per Capita GDP of Indian States via sectors and sub-sectors to see the contribution of each sector
